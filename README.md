@@ -1,6 +1,6 @@
 # Ml_Lab_3
 
-# Implementation of the prune defence.
+# Implementation of the pruning defense.
 
 The Dataset can be found [here]https://drive.google.com/drive/folders/1O1h65Yv9h3xHEDF5sF35WFUmjX_fFm7c?usp=sharing
 
