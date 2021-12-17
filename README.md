@@ -2,7 +2,7 @@
 
 # Implementation of the pruning defense.
 
-The Dataset can be found [here]https://drive.google.com/drive/folders/1O1h65Yv9h3xHEDF5sF35WFUmjX_fFm7c?usp=sharing
+The Dataset can be found [here](https://drive.google.com/drive/folders/1O1h65Yv9h3xHEDF5sF35WFUmjX_fFm7c?usp=sharing)
 
 According to the instructions given in the lab description, we must save the models when the accuracy drop was at 2%, 4% and 10% respectively. The models can be found in the repository.
 
